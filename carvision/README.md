@@ -1,6 +1,8 @@
 # Carvision
 
 College project for the web development class, with focus on PHP use.
+Made by: João Lucas Biglia Lobo
+Tiago Cameron
 
 
 ## Installation
